@@ -7,7 +7,7 @@ products = [
         "id": 1,
         "name": "Samsung Galaxy",
         "price": "₹15,999",
-        "image": "mobile.jpg",
+        "image": "jiren.jpg",
         "image2": "eren.jpg",
         "code": "SM001",
         "color": "red",
@@ -31,6 +31,7 @@ products = [
         "code": "SW001",
         "color": "Black",
          "app":"3",
+         "image2": "gohan.webp",
     },
     {
         "id": 4,
@@ -40,6 +41,7 @@ products = [
         "code": "HP001",
        "color": "Black",
         "app":"4",
+        "image2": "naruto.webp",
     },
     {
         "id": 5,
