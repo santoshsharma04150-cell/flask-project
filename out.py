@@ -41,7 +41,7 @@ products = [
         "code": "HP001",
        "color": "Black",
         "app":"4",
-        "image2": "naruto.webp",
+        "image2": "Naruto.webp",
     },
     {
         "id": 5,
